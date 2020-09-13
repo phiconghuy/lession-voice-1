@@ -37,4 +37,3 @@ function readOutLoud(message){
 
 	window.speechSynthesis.speak(speech)
 }
-SpeechSynthesisUtterance
